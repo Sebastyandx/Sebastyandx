@@ -1,4 +1,4 @@
-<h4>✨Hola, este es mi github✨</h4>
+<h4 aling="center">✨Hola, este es mi github✨</h4>
 <h3>Mi nombre es Sebastian y soy Full Stack Developer, soy una persona sociable, siempre ando con una actitud positiva, pienso mucho las cosas, me encanta la logica y tratar de encontrar soluciones a los problemas<h3>
 
 <h4>Con respecto a mis conocimiento...  </h4>
@@ -14,3 +14,6 @@
   ## 📩 Contactame 
 **[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)**
 
+ [![sebastyandx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastyandx)](https://github.com/anuraghazra/github-readme-stats)
+
+  Espero que le haya gustado mi repo 🙌
