@@ -9,10 +9,8 @@
 <h3> ✔ Extras: Bootstrap, Stripe</h3>
 
 <h4>💻Mis estadistica de github:</h4>
-![ ](https://github.com/Sebastyandx/Sebastyandx/blob/img/estadisticagit.png)
+![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
 
   ## 📩 Contactame 
 **[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)**
 
-
-**[WhatsApp](https://wa.link/4lb3iv)**
