@@ -13,8 +13,6 @@
 
   ## 📩 Contactame 
  <h4>Cualquier cosita me pueden encontrar en linkedln</h4>
-**[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)**
 
-![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
 
   Espero que le haya gustado mi repo 🙌
