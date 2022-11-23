@@ -10,3 +10,9 @@
 
 <h4>💻Mis estadistica de github:</h4>
 ![ ](https://github.com/Sebastyandx/Sebastyandx/blob/img/estadisticagit.png)
+
+  ## 📩 Contactame 
+**[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)**
+
+
+**[WhatsApp](https://wa.link/4lb3iv)**
