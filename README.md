@@ -9,11 +9,10 @@
 <h3> ✔ Extras: Bootstrap, Stripe</h3>
 
 <h4>💻Mis estadistica de github:</h4>
- [![sebastyandx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastyandx)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
 
   ## 📩 Contactame 
+ <h4>Cualquier cosita me pueden encontrar en linkedln</h4>
 **[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)**
 
 ![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
