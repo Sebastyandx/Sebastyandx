@@ -10,6 +10,8 @@
 
 <h4>💻Mis estadistica de github:</h4>
 ![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
+![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
+![](https://github-readme-stats.vercel.app/api?username=Sebastyandx)
 
   ## 📩 Contactame 
  <h4>Cualquier cosita me pueden encontrar en linkedln</h4>
