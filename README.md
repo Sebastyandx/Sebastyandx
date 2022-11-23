@@ -9,4 +9,4 @@
 <h3> ✔ Extras: Bootstrap, Stripe</h3>
 
 <h4>💻Mis estadistica de github:</h4>
-[(https://github-readme-stats.vercel.app/api?username=Sebastyandx)]
+  [![sebastyandx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastyandx)](https://github.com/anuraghazra/github-readme-stats)
