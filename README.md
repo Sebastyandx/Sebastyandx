@@ -10,5 +10,5 @@
 <h3> ✔ Extras: Bootstrap, Stripe</h3>
 
 <h4>💻Mis estadistica de github:</h4>
-[Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/estadisticagit.png)
+[Image text]https://github-readme-stats.vercel.app/api?username=Sebastyandx
 <img>https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/estadisticagit.png</img>
