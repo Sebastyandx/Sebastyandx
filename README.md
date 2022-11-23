@@ -15,7 +15,7 @@
 
 
   # 📩 Contacto
-**[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)**
+**[LinkeDln](https://www.linkedin.com/in/sebastian-rodriguez-080853208/)** <br>
 Email: r.sebastiandx@gmail.com
 
 
