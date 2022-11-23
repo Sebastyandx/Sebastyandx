@@ -10,3 +10,5 @@
 
 <h4>💻Mis estadistica de github:</h4>
   [![sebastyandx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastyandx)](https://github.com/anuraghazra/github-readme-stats)
+
+  Espero que le haya gustado mi repo 🙌
