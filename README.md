@@ -9,4 +9,4 @@
 <h3> ✔ Extras: Bootstrap, Stripe</h3>
 
 <h4>💻Mis estadistica de github:</h4>
-  [Image Text](https://github.com/Sebastyandx/Sebastyandx/main/estadisticagithub.png)
+![estadisticagit](https://user-images.githubusercontent.com/67121520/203517807-248b111a-347a-402f-8e2d-cfafd7a5b5db.png)
